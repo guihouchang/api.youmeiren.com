@@ -1,2 +1,25 @@
-/cache/
-/config/development/
+# log
+*.log
+
+# app/models
+
+# app/controllers
+
+.user.ini
+.phalcon
+.idea
+
+!/public/icon/default.png
+
+# public
+/public/*
+!**/public/index.php
+!**/public/.htaccess
+!.gitkeep
+
+
+vendor/
+
+.svn
+composer.lock
+*.bak

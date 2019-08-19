@@ -1,0 +1,19 @@
+{
+  "require": {
+    "guzzlehttp/guzzle" :  "6.3.3",
+    "zhuzhichao/ip-location-zh": "^2.4",
+    "intervention/image": "^2.4",
+    "qcloudsms/qcloudsms_php": "0.1.*",
+    "endroid/qr-code": "^3.6",
+    "khanamiryan/qrcode-detector-decoder": "^1.0"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "require-dev": {
+    "phalcon/ide-stubs": "^3.4"
+  }
+}
